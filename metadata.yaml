@@ -1,0 +1,43 @@
+_repo: Rhyme--And-Reason-_33582
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Holiday, Henry
+    birthdate: 1839
+    deathdate: 1927
+    gutenberg_agent_id: '34227'
+    url: http://www.gutenberg.org/2009/agents/34227
+  - agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 33582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: A collection of Carroll's verse, including "Phantasmagoria" and the complete
+  "Hunting of the Snark."
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nonsense verses, English'
+- !lcc 'PR'
+title: Rhyme? And Reason?
+url: http://www.gutenberg.org/ebooks/33582
