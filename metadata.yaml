@@ -28,6 +28,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
 description: A collection of Carroll's verse, including "Phantasmagoria" and the complete
   "Hunting of the Snark."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33582#Rhyme--And-Reason-
 gutenberg_issued: '2010-08-30'
 gutenberg_type: Text
 identifiers:
